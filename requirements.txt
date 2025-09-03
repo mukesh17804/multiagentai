@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+streamlit
+speechrecognition
+pyaudio
+psutil
+python-dotenv
